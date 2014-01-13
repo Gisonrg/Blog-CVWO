@@ -1,0 +1,1014 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"to",
+				"total"
+			],
+			[
+				"page",
+				"page_size"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"false",
+				"false"
+			],
+			[
+				"display",
+				"display_login"
+			],
+			[
+				"Dis",
+				"Display"
+			],
+			[
+				"Archi",
+				"Archive_item"
+			],
+			[
+				"displ",
+				"display_module"
+			],
+			[
+				"list",
+				"list_item"
+			],
+			[
+				"blog",
+				"bloghead"
+			],
+			[
+				"disp",
+				"display_css"
+			],
+			[
+				"sear",
+				"searchtype"
+			],
+			[
+				"oper",
+				"operation2"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"the",
+				"the_global_environment"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"func",
+				"function_value_parameters"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"make",
+				"make_function_value"
+			],
+			[
+				"par",
+				"party"
+			],
+			[
+				"v",
+				"__vote"
+			],
+			[
+				"get",
+				"get_window"
+			],
+			[
+				"Fil",
+				"FilteringWindow"
+			],
+			[
+				"cu",
+				"current"
+			],
+			[
+				"str",
+				"stream_tail"
+			],
+			[
+				"sum",
+				"sum_back"
+			],
+			[
+				"stream",
+				"stream"
+			],
+			[
+				"s",
+				"start"
+			],
+			[
+				"st",
+				"stream"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"count",
+				"count_false"
+			],
+			[
+				"sp",
+				"split"
+			],
+			[
+				"rege",
+				"regenerate"
+			],
+			[
+				"ta",
+				"stream_tail"
+			],
+			[
+				"lis",
+				"list"
+			],
+			[
+				"stra",
+				"stream_tail"
+			],
+			[
+				"spl",
+				"split_stream"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"you",
+				"you"
+			],
+			[
+				"play",
+				"player_name"
+			],
+			[
+				"Dar",
+				"Darth"
+			],
+			[
+				"ke",
+				"keycard_list"
+			],
+			[
+				"secre",
+				"Secret"
+			],
+			[
+				"Forc",
+				"Force-Calculus"
+			],
+			[
+				"wea",
+				"weapon"
+			],
+			[
+				"Se",
+				"SeniorKnight"
+			],
+			[
+				"MakeAndInstalls",
+				"MakeAndInstallSeniorKnight"
+			],
+			[
+				"cub",
+				"CubeRoom3"
+			],
+			[
+				"sou",
+				"south"
+			],
+			[
+				"MakeAndIns",
+				"MakeAndInstallWeapon"
+			],
+			[
+				"__in",
+				"__inuse"
+			],
+			[
+				"thing",
+				"thingsinbag"
+			],
+			[
+				"up",
+				"upgrade"
+			],
+			[
+				"we",
+				"weaponName"
+			],
+			[
+				"__th",
+				"__thingtype"
+			],
+			[
+				"Bo",
+				"BossRoom"
+			],
+			[
+				"_car",
+				"__card_code"
+			],
+			[
+				"__car",
+				"__card_name"
+			],
+			[
+				"card",
+				"card_name"
+			],
+			[
+				"se",
+				"set_reachable_by_knight_at"
+			],
+			[
+				"bo",
+				"Board"
+			],
+			[
+				"ge",
+				"get_x"
+			],
+			[
+				"co",
+				"Coordinates"
+			],
+			[
+				"gree",
+				"greetJFDI"
+			],
+			[
+				"othe",
+				"otherJFDIAtPlace"
+			],
+			[
+				"other",
+				"otherPlayerAtPlace"
+			],
+			[
+				"init",
+				"initialiseClockList"
+			],
+			[
+				"rar",
+				"rear_passage"
+			],
+			[
+				"west",
+				"west_deck"
+			],
+			[
+				"no",
+				"NORTH"
+			],
+			[
+				"fr",
+				"FrontPassage"
+			],
+			[
+				"ca",
+				"canGoBothWays"
+			],
+			[
+				"en",
+				"enchantedGarden"
+			],
+			[
+				"Mka",
+				"MakeAndInstallWeapon"
+			],
+			[
+				"o",
+				"over"
+			],
+			[
+				"pa",
+				"parents"
+			],
+			[
+				"pare",
+				"parent_pair"
+			],
+			[
+				"dom",
+				"dominant_parent"
+			],
+			[
+				"in",
+				"integer_numbers"
+			],
+			[
+				"stre",
+				"stream_map"
+			],
+			[
+				"int",
+				"integer_numbers"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"add",
+				"add_streams"
+			],
+			[
+				"op",
+				"operator"
+			],
+			[
+				"ev",
+				"evaluate_boolean_operation"
+			],
+			[
+				"is",
+				"is_boolean"
+			],
+			[
+				"pri",
+				"primitive_identifies_objects"
+			],
+			[
+				"dis",
+				"display_object"
+			],
+			[
+				"variab",
+				"variable_name"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 1456,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "view/register.inc",
+			"settings":
+			{
+				"buffer_size": 5031,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "view/add_post_form.inc",
+			"settings":
+			{
+				"buffer_size": 567,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/World of Warcraft/SKBigFoot.app/Contents/Info.plist",
+		"/Users/Gison/localhost/blog/process_register.php",
+		"/Users/Gison/localhost/blog/view/home.php",
+		"/Users/Gison/localhost/blog/model/db.php",
+		"/Users/Gison/localhost/feedbackandsurvey/view/feedbackform.inc",
+		"/Users/Gison/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Gison/localhost/feedbackandsurvey/feedback_process.php",
+		"/Users/Gison/localhost/blog/view/common/header.php",
+		"/Users/Gison/localhost/blog/register.php",
+		"/Users/Gison/localhost/blog/view/common/footer.php",
+		"/Users/Gison/localhost/blog/view/register.inc",
+		"/Users/Gison/localhost/blog/add_result.php",
+		"/Users/Gison/localhost/blog/about.php",
+		"/Users/Gison/localhost/blog/view/common/sidebar.php",
+		"/Users/Gison/localhost/blog/view/login.inc",
+		"/Users/Gison/localhost/blog/static/css/signin.css",
+		"/Users/Gison/localhost/blog/view/blogpost.php",
+		"/Users/Gison/localhost/blog/add_post.php",
+		"/Users/Gison/localhost/blog/index.php",
+		"/Users/Gison/localhost/blog/config/config.php",
+		"/Users/Gison/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Gison/localhost/blog/login_result.php",
+		"/Users/Gison/localhost/blog/logout.php",
+		"/Users/Gison/localhost/blog/update.php",
+		"/Users/Gison/localhost/blog/view.php",
+		"/Users/Gison/localhost/blog/static/js/nicEdit.js",
+		"/Users/Gison/Downloads/nicEdit-fe9d299a1a4888ab1a35284645a01ee5/demos/demo02.html",
+		"/Users/Gison/localhost/blog/model/login_funs.php",
+		"/Users/Gison/localhost/blog/model/user.php",
+		"/Users/Gison/localhost/blog/model/model.php",
+		"/Users/Gison/localhost/blog/arch.php",
+		"/Users/Gison/localhost/blog/edit.php",
+		"/Users/Gison/localhost/blog/delete.php",
+		"/Users/Gison/localhost/blog/static/css/blog.css",
+		"/Users/Gison/localhost/blog/tt.php",
+		"/Users/Gison/localhost/blog/view/add_post_form.inc",
+		"/Users/Gison/localhost/blog/view/delete.php",
+		"/Users/Gison/localhost/blog/login.php",
+		"/Applications/MAMP/bin/php/php5.5.3/conf/php.ini",
+		"/Users/Gison/localhost/blog/static/css/bootstrap.min.css",
+		"/Users/Gison/localhost/sp/config/password.php",
+		"/Users/Gison/localhost/blog/static/css/bootstrap-theme.min.css",
+		"/Users/Gison/localhost/a/Chapter 05/home.html",
+		"/Users/Gison/localhost/a/Chapter 10/book_insert.sql",
+		"/Users/Gison/localhost/a/Chapter 06/services.php",
+		"/Users/Gison/coding/NUSMods/app/short_url.php",
+		"/Users/Gison/coding/NUSMods/app/scripts/models/ModuleModel.js",
+		"/Users/Gison/localhost/a/Chapter 01/test.php",
+		"/Users/Gison/localhost/a/Chapter 01/processorder.php",
+		"/Users/Gison/localhost/a/Chapter 01/orderform.html",
+		"/Users/Gison/localhost/a/Chapter 04/processfeedback.php",
+		"/Users/Gison/localhost/a/Chapter 01/vieworders.php",
+		"/Users/Gison/localhost/a/Chapter 01/orders.txt",
+		"/Users/Gison/Documents/study/year 1 sem1/cs1101s/DG/intepreter.js",
+		"/Users/Gison/Documents/study/year 1 sem1/cs1101s/DG/discussion_7/discussion_7_6.js",
+		"/Users/Gison/Desktop/pe5.js",
+		"/Users/Gison/Documents/study/year 1 sem1/cs1101s/mission/sidequest_22-1/sidequest_22-1/lib/jediscript-week-13.js",
+		"/Users/Gison/Desktop/ttt.py",
+		"/Users/Gison/Desktop/ppp.py",
+		"/Users/Gison/Documents/study/year 1 sem1/cs1101s/mission/sidequest_22-1/sidequest_22-1/sidequest_22-1_1.js",
+		"/Users/Gison/Documents/study/year 1 sem1/cs1101s/mission/sidequest_22-1/sidequest_22-1/sidequest_22-1_2.js",
+		"/Users/Gison/Documents/study/year 1 sem1/cs1101s/mission/sidequest_22-1/sidequest_22-1/sidequest_22-1_3.js",
+		"/Users/Gison/Documents/study/year 1 sem1/cs1101s/PE/pe_misc.js",
+		"/Users/Gison/Documents/study/year 1 sem1/cs1101s/mission/sidequest_20-1/sidequest_20-1/sidequest_20-1_1.js",
+		"/Users/Gison/Documents/study/year 1 sem1/cs1101s/mission/sidequest_20-1/sidequest_20-1/sidequest_20-1_2.js",
+		"/Users/Gison/Documents/study/year 1 sem1/cs1101s/mission/sidequest_20-1/sidequest_20-1/sidequest_20-1_3.js",
+		"/Users/Gison/Documents/study/year 1 sem1/cs1101s/PE/solution2012.js",
+		"/Users/Gison/Documents/study/year 1 sem1/cs1101s/cs1101s-master/sidequest20.1-template.rkt",
+		"/Users/Gison/Documents/study/year 1 sem1/cs1101s/mission/sidequest_18_1/sidequest_18-1/sidequest_18-1_1.js",
+		"/Users/Gison/Documents/study/year 1 sem1/cs1101s/mission/sidequest_18_1/sidequest_18-1/sidequest_18-1.html",
+		"/Users/Gison/Documents/study/year 1 sem1/cs1101s/PE/pe3.js",
+		"/Users/Gison/Documents/study/year 1 sem1/cs1101s/mission/sidequest_19-1/sidequest_19-1/sidequest_19-1/sidequest_19-1_1.js",
+		"/Users/Gison/Documents/study/year 1 sem1/cs1101s/mission/sidequest_19-1/sidequest_19-1/sidequest_19-1/sidequest_19-1_2.js",
+		"/Users/Gison/Documents/study/year 1 sem1/cs1101s/mission/sidequest_19-1/sidequest_19-1/sidequest_19-1/sidequest_19-1_3.js",
+		"/Users/Gison/Documents/study/year 1 sem1/cs1101s/cs1101s-master/sidequest19.1-template.rkt",
+		"/Users/Gison/Documents/study/year 1 sem1/cs1101s/cs1101s-master/mission22-template.rkt",
+		"/Users/Gison/Documents/study/year 1 sem1/cs1101s/mission/mission_22/mission_22/mission_22_5.js",
+		"/Users/Gison/Documents/study/year 1 sem1/cs1101s/mission/mission_22/mission_22/mission_22_4.js",
+		"/Users/Gison/Documents/study/year 1 sem1/cs1101s/DG/discussion_7/discussion_7_2_solution.js",
+		"/Users/Gison/Documents/study/year 1 sem1/cs1101s/mission/mission_22/mission_22/mission_22_3.js",
+		"/Users/Gison/Documents/study/year 1 sem1/cs1101s/mission/mission_22/mission_22/mission_22_1.js",
+		"/Users/Gison/Documents/study/year 1 sem1/cs1101s/mission/mission_22/mission_22/mission_22_2.js",
+		"/Users/Gison/Documents/study/year 1 sem1/cs1101s/DG/DG8.js",
+		"/Users/Gison/Library/Application Support/Sublime Text 3/Packages/JsFormat/Default (OSX).sublime-keymap",
+		"/Users/Gison/Documents/study/year 1 sem1/cs1101s/recitation/interpreter_test.js",
+		"/Users/Gison/Documents/study/year 1 sem1/cs1101s/recitation/rec9.js",
+		"/Users/Gison/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 91.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"		<div class=\"col-sm-8 blog-main\">",
+			"theme",
+			"time",
+			"navbar-right",
+			"dist",
+			"display",
+			"”",
+			"“",
+			"”",
+			"“",
+			"right",
+			">",
+			"‘",
+			"”",
+			"apply",
+			"extend",
+			"evaluate_function_definition",
+			"evaluate_var_definition",
+			"show_global",
+			"evaluate_var_definition",
+			"extend_environment",
+			"extend",
+			"evaluate_function_definition",
+			"function_value_parameters",
+			"make_fun",
+			"`",
+			"function",
+			"type",
+			"surroundings",
+			"you.surroundings()",
+			"activate",
+			"trap",
+			"del",
+			"Knight",
+			"__die",
+			"person",
+			"weapon",
+			"findObject",
+			"things",
+			"isOwned",
+			"you",
+			"go",
+			"_thingtype",
+			"things.__thingtype",
+			"use",
+			"otherJ",
+			"newLoc",
+			"weapon",
+			"use",
+			"Boss",
+			"greet",
+			"x",
+			"y-1",
+			"y+1",
+			"y+2",
+			"y+1",
+			"-2",
+			"+2",
+			"greetPeople",
+			"greet",
+			"otherPeopleAtPlac",
+			"otherPeopleAtPlace",
+			"getPlace",
+			"act()",
+			"x.act()",
+			"id",
+			"Padawan",
+			"SDCard",
+			"__install()",
+			"Troll",
+			"use",
+			"person",
+			"mro",
+			"is_f",
+			"is_",
+			"is_function",
+			"cons",
+			"while",
+			"boolean",
+			"evaluate_boolean",
+			"evaluate_boolean_operation",
+			"lookup_",
+			"parse",
+			"p",
+			"evaluate_assignment",
+			"apply_primitive_function",
+			"new",
+			"ne'w",
+			"evaluate",
+			"evaluate(var_definition_value(stmt), env)",
+			"evaluate_var_definition(stmt, env)",
+			"assignment",
+			"is_var_definition(stmt)",
+			"evaluate_var_definition",
+			"new",
+			"define_variable",
+			"add_binding_to_frame",
+			"binding",
+			"has_binding_in_frame",
+			"set",
+			"the_empty_environment",
+			"primitive_function_objects()",
+			"primitive_function_names()"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"static",
+			"\"",
+			"center",
+			"'",
+			"\"",
+			"SeniorKnight",
+			"thing",
+			"y-2",
+			"y+2",
+			"y+1",
+			"y+2",
+			"-1",
+			"+1",
+			"Weapon",
+			"Padawan"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1456,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1253,
+								1253
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "view/register.inc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5031,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3658,
+								3658
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "view/add_post_form.inc",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 567,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								567,
+								567
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 134.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Blog.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 181.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
