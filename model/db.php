@@ -206,6 +206,8 @@ function create_user($name, $password) {
 /*
  *  Comments and database related function
  */
+
+//add a comment to the database
 function add_comment($postid, $author, $content) {
   $mysql=connect_db();
   $query = "insert into comments values
@@ -218,6 +220,7 @@ function add_comment($postid, $author, $content) {
     }
 }
 
+//get the comment of a post from database
 function get_comment($postid, $post_author) {
   $mysql=connect_db();
   $query = "select * from comments where postid = ".$postid." order by date";
@@ -232,7 +235,7 @@ function get_comment($postid, $post_author) {
   }
 }
 
-//delete a post from the database
+//delete a comment from the database
 function delete_comment($comment_id) {
   $mysql=connect_db();
   $query = "delete from comments where comment_id =".$comment_id.";";

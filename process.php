@@ -2,6 +2,10 @@
 session_start();
 require('model/model.php');
 
+//this is a file for processing jquery.ajax request.
+//it will check the $_POST['action'] variable for the action,
+//then do the work accordingly.
+
 if ($_POST['action']=='check_name') {
 	$username = $_POST['username']; 
 	$result = check_username($username);
@@ -12,6 +16,7 @@ if ($_POST['action']=='check_name') {
 	$_SESSION['valid_user'] = $username;
 	create_user($username, $password);
 	$result = true;
+
 } else if ($_POST['action']=='post_comment') {
 	$postid = $_POST['postid']; 
 	$content = $_POST['content']; 
@@ -25,6 +30,7 @@ if ($_POST['action']=='check_name') {
 	} else {
 		$result = false;
 	}	
+
 } else if ($_POST['action']=='delete_comment') {
 	$comment_id = $_POST['comment_id']; 
 	if (delete_comment($comment_id)) {
@@ -35,11 +41,13 @@ if ($_POST['action']=='check_name') {
 }
 
 //callback
+// return 0 or 1 for jquery do the callback reaction
 if($result) {
 		$arr['success'] = 1; 
 } else {
 		$arr['success'] = 0; 
 }
+// return in json format
 echo json_encode($arr);
 
 ?>

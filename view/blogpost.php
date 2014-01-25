@@ -40,7 +40,7 @@ function edit_post($id, $title, $content){
 
 //display a post
 function display_post($title,$date, $author, $content, $id, $full = false) {
-    echo "<div class=\"blog-post\">";
+    echo "<div class=\"blog-post\" id=\"$id\">";
     if (strpos($_SERVER['PHP_SELF'], 'view.php' ) == false) {
         echo "<a href=\"view.php?id=".$id."\"> <h2 class=\"blog-post-title\">".$title."</h2></a>";
     } else {
@@ -68,6 +68,9 @@ function display_post($title,$date, $author, $content, $id, $full = false) {
 
 }
 
+/*
+ * Display a comment under the view post page
+ */
 function display_comment($author, $date, $content, $comment_id, $post_author) {
     echo "<div class=\"comment-meta\">";
     echo $author;
